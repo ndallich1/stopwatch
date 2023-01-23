@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  font-family: 'Gugi', cursive;
+}
+
+body {
+  background-color: rgb(126, 228, 189);
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Monoton', cursive;
+  font-size: 80px;
+  color: #da5b5b;
+  padding: 10px;
+  height: 100px;
+}
+
+header {
+  margin: 10px;
+}
+
+main {
+  text-align: center;
+}
+
+.timer {
+  font-family: 'Bungee Shade', cursive;
+  font-size: 56px;
+  margin: 4px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  margin: 12px;
+  padding: 6px;
+}
+
+button {
+  font-size: 36px;
+  color: rgb(126, 228, 189);
+  border-radius: 6px;
+  border-color: rgb(218, 91, 91);
+  background-color: rgb(218, 91, 91);
+  margin: 8px;
+}
